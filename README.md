@@ -66,6 +66,6 @@ _For more, check out my repositories!_
 ## 📫 Let's Connect!
 - **Email:** yasaswitha.gaddam@gwu.edu
 - **LinkedIn:** [Yasaswitha Gaddam](https://www.linkedin.com/in/yasaswitha-gaddam/)
-- **GitHub:** [Explore My Work](https://github.com/YOUR-GITHUB-USERNAME)
+- **GitHub:** [Explore My Work](https://github.com/Yasaswithagaddam31)
 
 ---
