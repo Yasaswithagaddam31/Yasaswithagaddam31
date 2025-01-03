@@ -2,7 +2,7 @@
 **_Data Science Intern | Skilled in AI & ML | Passionate Problem Solver_**
 
 ## 👋 Welcome to My GitHub!
-I am currently a Data Science Intern, combining technical expertise and analytical skills to solve real-world problems through data. With a strong academic and professional background, I enjoy building machine learning models, conducting data-driven analyses, and creating impactful visualizations.
+I am currently a Data Science Intern and pursuing a Master’s in Data Science at **The George Washington University**. I combine technical expertise and analytical skills to solve real-world problems through data. With a strong academic and professional background, I enjoy building machine learning models, conducting data-driven analyses, and creating impactful visualizations.
 
 ---
 
@@ -19,6 +19,9 @@ I am currently a Data Science Intern, combining technical expertise and analytic
 - **🔍 Interests:**
   - Collaborative projects in AI/ML and data science.
   - Exploring advancements in Large Language Models (LLMs) and Generative AI.
+
+- **📌 Open To Opportunities:**
+  - Exploring full-time roles in Data Science, Machine Learning, or related fields.
 
 ---
 
